@@ -14,6 +14,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </div>
+<br/>
 
 <div>
 <img width="421px" height="123" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
