@@ -9,7 +9,7 @@
  <div style="display: flex; flex-direction: column;">
   <img width=421 src="https://i.imgur.com/LiY2GlL.gif"/>
  </div>
- <div style="display: flex; flex-direction: column;">
+ <div style="display: flex; flex-direction: column; align-items: center;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true&card_width=445" />
  </div>
