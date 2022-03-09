@@ -2,7 +2,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true)](https://github.com/alex-pober/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues) -->
 <!-- <img src="https://i.imgur.com/HUg8O6C.png"/> -->
-<img src="https://i.imgur.com/z8b0KZo.gif"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 
 <p align="center">
   <img width=421 height="135" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
