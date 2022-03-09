@@ -2,9 +2,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true)](https://github.com/alex-pober/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues) -->
 
-<a align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
 </a>
 
 <!--
