@@ -3,18 +3,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues) -->
 <!-- <img src="https://i.imgur.com/HUg8O6C.png"/> -->
 <!-- <img src="https://media0.giphy.com/media/VrzSAtwj3o5Mg7hLRw/giphy.gif"/> -->
+<!-- 
 
-
-<div style="display: flex; flex-direction: row;">
- <div style="display: flex; flex-direction: column;">
   <img width=421 src="https://i.imgur.com/LiY2GlL.gif"/>
- </div>
- <div style="display: flex; flex-direction: column; align-items: center;">
-  <img width=421 class="img" src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
-  <img width=421 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true&card_width=445" />
- </div>
- 
-</div>
+<table>
+ <tr>
+   <td valign="top"> <img src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" /> </td>
+   <td valign="top"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true&card_width=445" /> </td>
+ </tr>
+</table>
+   -->
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=alex-pober&count_private=true&show_icons=true&border_radius=25&hide_title=true&hide=stars,issues" />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pober&layout=compact&border_radius=25&hide_title=true&card_width=445" />
+<div>
+
 
 <!--
 **alex-pober/alex-pober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
