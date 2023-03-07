@@ -1,5 +1,11 @@
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Alex</h1>
+<h4 align="center">passionate about web development and weightlifting, I'm a full stack developer who knows how to pump up both websites and muscles. see my <a href="https://alex-pober.github.io" target="_blank" rel="noreferrer">portfolio</a> for more</h4>
+</div>
+
+<hr></hr>
+
 <h4>Programming Language</h4>
-<hr style="margin: 0px"></hr>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
