@@ -1,9 +1,12 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Alex</h1>
 <h4 align="center">passionate about web development and weightlifting, I'm a full stack developer who knows how to pump up both websites and muscles. see my <a href="https://alex-pober.github.io" target="_blank" rel="noreferrer">portfolio</a> for more</h4>
+    <a href="mailto:alex.pober.95@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+<hr></hr>
 </div>
 
-<hr></hr>
 
 <h4>Programming Language</h4>
 <div>
